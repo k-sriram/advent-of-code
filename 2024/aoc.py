@@ -52,7 +52,12 @@ class AOCday:
 
     @property
     def examples(self) -> list[str]:
-        return example_re.findall(self.text)
+        examples = example_re.findall(self.text)
+        for i, example in enumerate(examples):
+            # Replace HTML entities
+            examples[i] = example.replace("&lt;", '<').replace("&gt;", '>')
+            examples[i] = examples[i].replace("<em>", "").replace("</em>", "")
+        return examples
 
     def submit(self, level: Literal[1, 2], answer: int) -> Response:
         data = {"level": str(level), "answer": str(answer)}

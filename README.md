@@ -1,9 +1,9 @@
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  Advent of Code - 97/476 ⭐
+  Advent of Code - 121/500 ⭐
 </h1>
 <h1 align="center">
-  2024 - 26 ⭐ - Python
+  2024 - 50 ⭐ - Python
 </h1>
 <a href="2024/day01.py">
   <img src=".aoc_tiles/tiles/2024/01.png" width="161px">
@@ -43,6 +43,42 @@
 </a>
 <a href="2024/day13.py">
   <img src=".aoc_tiles/tiles/2024/13.png" width="161px">
+</a>
+<a href="2024/day14.py">
+  <img src=".aoc_tiles/tiles/2024/14.png" width="161px">
+</a>
+<a href="2024/day15.py">
+  <img src=".aoc_tiles/tiles/2024/15.png" width="161px">
+</a>
+<a href="2024/day16.py">
+  <img src=".aoc_tiles/tiles/2024/16.png" width="161px">
+</a>
+<a href="2024/day17.py">
+  <img src=".aoc_tiles/tiles/2024/17.png" width="161px">
+</a>
+<a href="2024/day18.py">
+  <img src=".aoc_tiles/tiles/2024/18.png" width="161px">
+</a>
+<a href="2024/day19.py">
+  <img src=".aoc_tiles/tiles/2024/19.png" width="161px">
+</a>
+<a href="2024/day20.py">
+  <img src=".aoc_tiles/tiles/2024/20.png" width="161px">
+</a>
+<a href="2024/day21.py">
+  <img src=".aoc_tiles/tiles/2024/21.png" width="161px">
+</a>
+<a href="2024/day22.py">
+  <img src=".aoc_tiles/tiles/2024/22.png" width="161px">
+</a>
+<a href="2024/day23.py">
+  <img src=".aoc_tiles/tiles/2024/23.png" width="161px">
+</a>
+<a href="2024/day24.py">
+  <img src=".aoc_tiles/tiles/2024/24.png" width="161px">
+</a>
+<a href="2024/day25.py">
+  <img src=".aoc_tiles/tiles/2024/25.png" width="161px">
 </a>
 <h1 align="center">
   2023 - 21 ⭐ - Rust
